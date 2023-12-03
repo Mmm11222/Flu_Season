@@ -9,10 +9,10 @@ staff.
 To help a temporary medical staffing agency that covers all hospitals in each of the 50 states of the United States, to plan for the upcoming influenza season, as to adequately provide workers on an as-needed basis.
 
 # Data 
-- Data set Influenza deaths by geography, time, age, and gender
-  Source: CDC
-- Population data by geography
-  Source: US Census Bureau
+- Data set Influenza deaths by geography, time, age, and gender ( Source: CDC)
+
+- Population data by geography ( Source: US Census Bureau)
+  
 
 # Tools & Skills  
 - Excel
