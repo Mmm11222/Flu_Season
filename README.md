@@ -23,4 +23,4 @@ To help a temporary medical staffing agency that covers all hospitals in each of
 - Visual analysis
 - Forecasting
 - Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>
-- Presenting results <a href=[https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1](https://www.youtube.com/watch?v=nfGcE5Y54Gc)https://www.youtube.com/watch?v=nfGcE5Y54Gc> Youtube Project</a>
+- Presenting results <a href=(https://www.youtube.com/watch?v=nfGcE5Y54Gc) > Youtube Project</a>
