@@ -22,5 +22,5 @@ To help a temporary medical staffing agency that covers all hospitals in each of
 - Statistical hyphotesis testing
 - Visual analysis
 - Forecasting
-- Storytelling in Tableu 
+- Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>
 - Presenting results
