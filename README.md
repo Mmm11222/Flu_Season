@@ -42,11 +42,8 @@ Storytelling in <a href=https://public.tableau.com/app/profile/mafalda.antunes/v
 The final report includes a month-by-month deployment schedule, prioritizing states with the highest density of vulnerable populations and historically high mortality rates.
 
 ---
-*Developed as part of the CareerFoundry Data Analytics Program.*
+*Note: This project was developed as part of a professional Data Analytics certification by CareerFoundry.
 
 
 
 
-
-- Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>
-- Presenting results <a href="https://www.youtube.com/watch?v=nfGcE5Y54Gc"> Youtube Project</a>
