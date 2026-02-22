@@ -27,7 +27,7 @@ This project provides a data-backed staffing recommendation for a medical agency
 * Created a forecast model to predict peak weeks, allowing for proactive staffing recruitment.
 
 ### 3. Final Presentation
-* **Presenting results <a href="https://www.youtube.com/watch?v=nfGcE5Y54Gc"> Youtube Project</a>** 🎥
+* **Presenting results (https://www.youtube-nocookie.com/embed/nfGcE5Y54Gc) Youtube Project</a>** 🎥
 * **Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>)** 📈
 
 ## 🚀 Strategic Recommendation
