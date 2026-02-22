@@ -26,7 +26,7 @@ This project provides a data-backed staffing recommendation for a medical agency
 * Developed interactive **Tableau Dashboards** to track seasonal trends and geographic "hotspots".
 * Created a forecast model to predict peak weeks, allowing for proactive staffing recruitment.
 
-## 3.## 📺 Project Presentation
+### 3. 📺 Project Presentation
 Watch the executive briefing where I present the methodology and key staffing recommendations.
 
 <a href="https://www.youtube.com/watch?v=nfGcE5Y54Gc" target="_blank">
