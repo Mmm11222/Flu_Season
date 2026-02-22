@@ -29,7 +29,10 @@ This project provides a data-backed staffing recommendation for a medical agency
 ## 3.## 📺 Project Presentation
 Watch the executive briefing where I present the methodology and key staffing recommendations.
 
-[![Flu Season Analysis](https://img.youtube.com/vi/nfGcE5Y54Gc/0.jpg)](https://www.youtube.com/watch?v=nfGcE5Y54Gc)
+<a href="https://www.youtube.com/watch?v=nfGcE5Y54Gc" target="_blank">
+   <img src="https://img.youtube.com/vi/nfGcE5Y54Gc/0.jpg" alt="Flu Season Analysis" width="400" />
+</a>
+
 *Click the image above to watch the presentation.*
 
 Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>
