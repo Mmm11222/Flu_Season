@@ -27,8 +27,8 @@ This project provides a data-backed staffing recommendation for a medical agency
 * Created a forecast model to predict peak weeks, allowing for proactive staffing recruitment.
 
 ### 3. Final Presentation
-* **[Watch the Presentation on YouTube]( a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1>** 🎥
-* **[View Tableau Dashboard](COLOCA_AQUI_O_LINK_DO_TABLEAU)** 📈
+* **Presenting results <a href="https://www.youtube.com/watch?v=nfGcE5Y54Gc"> Youtube Project</a>** 🎥
+* **Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>)** 📈
 
 ## 🚀 Strategic Recommendation
 The final report includes a month-by-month deployment schedule, prioritizing states with the highest density of vulnerable populations and historically high mortality rates.
