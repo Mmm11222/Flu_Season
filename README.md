@@ -26,9 +26,14 @@ This project provides a data-backed staffing recommendation for a medical agency
 * Developed interactive **Tableau Dashboards** to track seasonal trends and geographic "hotspots".
 * Created a forecast model to predict peak weeks, allowing for proactive staffing recruitment.
 
-### 3. Final Presentation
-* **Youtube Project (https://youtu.be/nfGcE5Y54Gc) ** 🎥
-* **Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>)** 📈
+## 3.## 📺 Project Presentation
+Watch the executive briefing where I present the methodology and key staffing recommendations.
+
+[![Flu Season Analysis](https://img.youtube.com/vi/nfGcE5Y54Gc/0.jpg)](https://www.youtube.com/watch?v=nfGcE5Y54Gc)
+*Click the image above to watch the presentation.*
+
+Storytelling in Tableu <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1> Project</a>
+
 
 ## 🚀 Strategic Recommendation
 The final report includes a month-by-month deployment schedule, prioritizing states with the highest density of vulnerable populations and historically high mortality rates.
